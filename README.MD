@@ -12,7 +12,7 @@ in build.zig
 
 ## License
 
-The license for this project is `MIT`.
+The license for this project is [`MIT`](./LICENSE).
 
 ## Documentation
 
